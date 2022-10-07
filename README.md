@@ -1,2 +1,6 @@
-# training_projects
-I have learned in yandex.practicum on data analisys faculty. And in this repository you can find my projects. Have a nice day.
+Доброго дня!
+Я проходила переподготовку на аналитика данных и в рамках обучения выполняла самостоятельные проекты. 
+Предостявляю вашему вниманию свои работы:
+
+1. Big_cities_music https://github.com/Starling11/training_projects/tree/main/Big_cities_music На данных Яндекс.Музыки изучить музыкальные предпочтения пользователей из Москвы и Санкт-Петербурга. Работа выполненна в Juputer Notebook.
+
