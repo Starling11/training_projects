@@ -13,3 +13,6 @@
 
 4. Telecom_company_project: https://github.com/Starling11/training_projects/tree/main/Telecom_company_project
 На основании данных об количестве звонков, сообщений, использованнии трафика 500 пользователей условной телеком-компании выявить выгодный тариф для компании. Работа выполненна в Juputer Notebook.
+
+5. The_success_of_the_games: https://github.com/Starling11/training_projects/tree/main/The_success_of_the_games
+По доступным историческим данным о продаже игр, жанрах, платформах и оценкам необходимо выявить определяющие успешность игры закономерности. Работа выполненна в Juputer Notebook.
