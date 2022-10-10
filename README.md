@@ -16,3 +16,6 @@
 
 5. The_success_of_the_games: https://github.com/Starling11/training_projects/tree/main/The_success_of_the_games
 По доступным историческим данным о продаже игр, жанрах, платформах и оценкам необходимо выявить определяющие успешность игры закономерности. Работа выполненна в Juputer Notebook.
+
+6. User`s_behavior: https://github.com/Starling11/training_projects/tree/main/User%60s_behavior
+По данным журнала логов приложения изучить воронку продаж, проверить результаты А/А/В теста и выяснить как влияет на действия пользователей новый шрифт.
