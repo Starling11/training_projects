@@ -19,3 +19,6 @@
 
 6. User`s_behavior: https://github.com/Starling11/training_projects/tree/main/User%60s_behavior
 По данным журнала логов приложения изучить воронку продаж, проверить результаты А/А/В теста и выяснить как влияет на действия пользователей новый шрифт.
+
+7. SQL: https://github.com/Starling11/training_projects/tree/main/SQL_homework
+Небольшое исследование базы данных при помощи SQL запросов.
